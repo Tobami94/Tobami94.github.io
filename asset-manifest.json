@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0cad6289.css",
+    "main.js": "/static/js/main.2db82e9e.js",
+    "static/js/453.b455d6ee.chunk.js": "/static/js/453.b455d6ee.chunk.js",
+    "static/media/profile_maleP.png": "/static/media/profile_maleP.680e771b7ca3940e098b.png",
+    "static/media/pokedex.png": "/static/media/pokedex.93ba0cf122f5e2c04954.png",
+    "static/media/rickMorty.png": "/static/media/rickMorty.c27ab89e53869cfc4886.png",
+    "static/media/embled.png": "/static/media/embled.bfa598573d200c9fca8f.png",
+    "index.html": "/index.html",
+    "main.0cad6289.css.map": "/static/css/main.0cad6289.css.map",
+    "main.2db82e9e.js.map": "/static/js/main.2db82e9e.js.map",
+    "453.b455d6ee.chunk.js.map": "/static/js/453.b455d6ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cad6289.css",
+    "static/js/main.2db82e9e.js"
+  ]
+}

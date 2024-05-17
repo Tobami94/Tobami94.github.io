@@ -220,7 +220,7 @@ const proyects = {
     },
     {
       role: 'Dashboard',
-      companylogo: require('../assets/img/rickMorty.png'),
+      companylogo: require('../assets/img/admindashboard.jpg'),
       tools: [ 
         { tool: "Javascript"},
         { tool: "React"},
@@ -236,7 +236,7 @@ const proyects = {
  },
     {
       role: 'Clone Spotify',
-      companylogo: require('../assets/img/rickMorty.png'),
+      companylogo: require('../assets/img/admindashboard.jpg'),
       tools: [ 
         { tool: "Javascript"},
         { tool: "React"},
